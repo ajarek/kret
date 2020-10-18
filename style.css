@@ -1,0 +1,15 @@
+body {
+    background-image: url('trawa.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+#zegar {
+    color: red;
+    font-size: 50px;
+}
+
+#wynik {
+    color: white;
+    font-size: 50px;
+}
